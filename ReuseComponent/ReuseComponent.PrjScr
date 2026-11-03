@@ -1,0 +1,13 @@
+[Design]
+Version=1.0
+HierarchyMode=0
+OpenOutputs=0
+ArchiveProject=0
+ReorderDocumentsOnCompile=1
+
+[Document1]
+DocumentPath=ReuseComponent.pas
+AnnotationEnabled=1
+
+[Generic_ScriptingSystem]
+StartProcName=ReuseComponent.pas>ReuseComponent_01_Main

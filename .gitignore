@@ -1,0 +1,19 @@
+# Local Altium history and generated project structure
+__History/
+History/
+__Previews/
+*.PrjScrStructure
+
+# Diagnostics, backups, and temporary files
+*.log
+*.bak
+*.tmp
+*.PrjScr~
+*.pas~
+*.dfm~
+
+# Local editor and operating system files
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
